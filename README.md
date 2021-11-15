@@ -6,10 +6,6 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-<p align="left">
   💼 Tecnologias: <strong>PHP, Laravel, Flutter, TypeScript, Node.js, MicroServiços e Scrum.</strong>
 </p>
 
