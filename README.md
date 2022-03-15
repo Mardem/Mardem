@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Mardem">
 
 <p align="left"> 
- 🌎  Olá, sou o Marden Cavalcante, tenho 23 anos e sou certificado SMPC! Desenvolvedor de softwares desde os 13 anos. Trabalhei em vários projetos privados e público, hoje sou <strong>desenvolvedor mobile</strong>.<br>
+ 🌎  Olá, sou o Marden Cavalcante, tenho 24 anos e sou certificado SMPC! Desenvolvedor de softwares desde os 13 anos. Trabalhei em vários projetos privados e público, hoje sou <strong>desenvolvedor mobile</strong>.<br>
   A cada dia melhorando com Orientação a Objetos e me tornando ciêntista da computação 🧐.
 </p>
 
@@ -21,6 +21,10 @@
   </a>
    <a href="https://marden.dev/#home" alt="Website">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+ 
+  <a href="mailto:main@marden.dev" alt="Gmain">
+    <img src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
 </p>
