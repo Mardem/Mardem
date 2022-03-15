@@ -19,4 +19,8 @@
   <a href="https://www.linkedin.com/in/mfcdev/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/mfcdev/"/>
   </a>
+   <a href="https://marden.dev/#home" alt="Website">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+
 </p>
